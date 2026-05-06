@@ -18,18 +18,18 @@
     <ClCompile Include="RBT-Project.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\RBTree.cpp">
+    <ClCompile Include="project\RBNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\RBNode.cpp">
+    <ClCompile Include="project\RBTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\RBNode.h">
+    <ClInclude Include="project\RBNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\RBTree.h">
+    <ClInclude Include="project\RBTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

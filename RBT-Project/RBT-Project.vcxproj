@@ -123,13 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\RBNode.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\RBTree.cpp" />
+    <ClCompile Include="project\RBNode.cpp" />
+    <ClCompile Include="project\RBTree.cpp" />
     <ClCompile Include="RBT-Project.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\RBNode.h" />
-    <ClInclude Include="..\..\..\..\Downloads\RBTree.h" />
+    <ClInclude Include="project\RBNode.h" />
+    <ClInclude Include="project\RBTree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
