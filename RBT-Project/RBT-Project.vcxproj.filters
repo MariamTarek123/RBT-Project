@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RBT-Project.cpp">
+    <ClCompile Include="src\RBNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="project\RBNode.cpp">
+    <ClCompile Include="src\RBT-Project.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="project\RBTree.cpp">
+    <ClCompile Include="src\RBTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="project\RBNode.h">
+    <ClInclude Include="include\RBNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="project\RBTree.h">
+    <ClInclude Include="include\RBTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

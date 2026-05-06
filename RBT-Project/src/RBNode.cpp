@@ -1,4 +1,4 @@
-﻿#include "RBNode.h"
+﻿#include "../include/RBNode.h"
 
 // Constructs a new RBNode.
 // Parameters:
