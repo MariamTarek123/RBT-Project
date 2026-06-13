@@ -1,0 +1,5 @@
+C:/Users/loayw/.gemini/antigravity/scratch/qt project/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/RBT_GUI.dir
+C:/Users/loayw/.gemini/antigravity/scratch/qt project/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/loayw/.gemini/antigravity/scratch/qt project/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/loayw/.gemini/antigravity/scratch/qt project/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/RBT_GUI_autogen_timestamp_deps.dir
+C:/Users/loayw/.gemini/antigravity/scratch/qt project/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/RBT_GUI_autogen.dir
