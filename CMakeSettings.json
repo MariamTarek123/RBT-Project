@@ -1,0 +1,36 @@
+﻿{
+  "configurations": [
+    {
+      "name": "Mingw64-Debug",
+      "generator": "MinGW Makefiles",
+      "configurationType": "Debug",
+      "buildRoot": "${projectDir}\\out\\build\\${name}",
+      "installRoot": "${projectDir}\\out\\install\\${name}",
+      "cmakeCommandArgs": "",
+      "buildCommandArgs": "-v",
+      "ctestCommandArgs": "",
+      "variables": [
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "C:/Qt/Tools/mingw1310_64/bin/mingw32-make.exe",
+          "type": "PATH"
+        },
+        {
+          "name": "CMAKE_PREFIX_PATH",
+          "value": "C:/Qt/6.11.1/mingw_64",
+          "type": "PATH"
+        },
+        {
+          "name": "CMAKE_C_COMPILER",
+          "value": "C:/Qt/Tools/mingw1310_64/bin/gcc.exe",
+          "type": "PATH"
+        },
+        {
+          "name": "CMAKE_CXX_COMPILER",
+          "value": "C:/Qt/Tools/mingw1310_64/bin/g++.exe",
+          "type": "PATH"
+        }
+      ]
+    }
+  ]
+}
